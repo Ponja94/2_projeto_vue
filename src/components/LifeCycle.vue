@@ -15,7 +15,7 @@
             this.nome = 'Daniel'},2000);
 
             this.lifeCycle()
-        },
+        }, 
         mounted(){
             setTimeout(() => {
             this.nome = 'Jhon'},3000);

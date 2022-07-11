@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" value="Enviar">
+        <button type="text" value="Enviar">Enviar</button>
     </div>
 </template>
 
